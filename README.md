@@ -1,7 +1,7 @@
 服务端程序地址：https://github.com/xueliqq/v2ray-heroku/blob/master/README.md
  v2ray客户端下载：https://github.com/v2ray/v2ray-core/releases
 负载均衡配置文件路径：https://drive.google.com/file/d/16tnAMU1Lh82yIdAHKovJjV7QAtXoXhNE/view
-
+我的负载均衡配置文件路径：https://drive.google.com/file/d/1AXmomHh8aK9aaq2sPiW8XMwmJYnoGm1v/view?usp=sharing
 
 
 
