@@ -2,7 +2,7 @@
  v2ray客户端下载：https://github.com/v2ray/v2ray-core/releases
 负载均衡配置文件路径：https://drive.google.com/file/d/16tnAMU1Lh82yIdAHKovJjV7QAtXoXhNE/view
 我的负载均衡配置文件路径：https://drive.google.com/file/d/1AXmomHh8aK9aaq2sPiW8XMwmJYnoGm1v/view?usp=sharing
-
+免费域名加速网站：https://dash.cloudflare.com/799cfe2809f103ade456e6626e9b1637
 
 
 
